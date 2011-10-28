@@ -1,0 +1,9 @@
+<ACTIONS>
+	<action>
+		<name>qsaworkbench</name>
+		<description>QT_TRANSLATE_NOOP("MetaData","Herramienta debugger de QSA 1.1.X.")</description>
+		<alias>QT_TRANSLATE_NOOP("MetaData","QSA WorkBench")</alias>
+		<scriptform>qsaworkbench</scriptform>
+	</action>
+
+</ACTIONS>
