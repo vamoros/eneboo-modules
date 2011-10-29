@@ -23,5 +23,12 @@
 		<alias>QT_TRANSLATE_NOOP("MetaData","Editor")</alias>
 		<scriptform>editor</scriptform>
 	</action>
+	<action>
+		<name>ak_opciones</name>
+                <description>QT_TRANSLATE_NOOP("MetaData","Panel de control de Ar2Kut.")</description>
+		<alias>QT_TRANSLATE_NOOP("MetaData","AR2KUT")</alias>
+		<scriptform>ak_opciones</scriptform>
+	</action>
+
 
 </ACTIONS>
