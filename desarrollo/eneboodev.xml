@@ -5,5 +5,17 @@
 		<alias>QT_TRANSLATE_NOOP("MetaData","QSA WorkBench")</alias>
 		<scriptform>qsaworkbench</scriptform>
 	</action>
+	<action>
+		<name>designer</name>
+		<description>QT_TRANSLATE_NOOP("MetaData","Herramienta Designer para QT3.")</description>
+		<alias>QT_TRANSLATE_NOOP("MetaData","Designer (Qt3)")</alias>
+		<scriptform>designer</scriptform>
+	</action>
+	<action>
+		<name>linguist</name>
+		<description>QT_TRANSLATE_NOOP("MetaData","Herramienta Linguist.")</description>
+		<alias>QT_TRANSLATE_NOOP("MetaData","Linguist")</alias>
+		<scriptform>linguist</scriptform>
+	</action>
 
 </ACTIONS>
