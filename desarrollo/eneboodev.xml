@@ -17,5 +17,11 @@
 		<alias>QT_TRANSLATE_NOOP("MetaData","Linguist")</alias>
 		<scriptform>linguist</scriptform>
 	</action>
+        <action>
+		<name>editor</name>
+		<description>QT_TRANSLATE_NOOP("MetaData","Editor de Scripts.")</description>
+		<alias>QT_TRANSLATE_NOOP("MetaData","Editor")</alias>
+		<scriptform>editor</scriptform>
+	</action>
 
 </ACTIONS>
